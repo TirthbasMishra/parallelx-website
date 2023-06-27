@@ -1,5 +1,3 @@
-# parallelx-website
-
 # parallelx.netlify.app
 
 
