@@ -1,6 +1,6 @@
 # parallelx-website
 
-parallelx.netlify.app
+# parallelx.netlify.app
 
 
 
